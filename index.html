@@ -73,6 +73,9 @@
       #install-link:hover {
         color: rgba(255, 255, 255, 0.7);
       }
+      @media all and (display-mode: standalone) {
+        #install-link { display: none; }
+      }
       @keyframes pulse {
         0%,
         100% {
