@@ -61,16 +61,17 @@
         animation: pulse 2s ease-in-out infinite;
       }
       #install-link {
-        position: absolute;
-        bottom: 1.5rem;
+        margin-top: 2rem;
+        padding-bottom: env(safe-area-inset-bottom, 1rem);
         font-family: Georgia, 'Times New Roman', serif;
-        font-size: 0.8rem;
-        color: rgba(255, 255, 255, 0.35);
-        text-decoration: none;
+        font-size: 0.85rem;
+        color: rgba(255, 255, 255, 0.5);
+        text-decoration: underline;
+        text-underline-offset: 0.2em;
         letter-spacing: 0.03em;
       }
       #install-link:hover {
-        color: rgba(255, 255, 255, 0.6);
+        color: rgba(255, 255, 255, 0.7);
       }
       @keyframes pulse {
         0%,
