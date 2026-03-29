@@ -61,6 +61,7 @@
         animation: pulse 2s ease-in-out infinite;
       }
       #install-link {
+        display: none;
         margin-top: 1rem;
         padding-bottom: env(safe-area-inset-bottom, 1rem);
         font-family: Georgia, 'Times New Roman', serif;
@@ -69,6 +70,9 @@
         text-decoration: underline;
         text-underline-offset: 0.2em;
         letter-spacing: 0.03em;
+      }
+      @media (max-width: 768px) {
+        #install-link { display: block; }
       }
       #install-link:hover {
         color: rgba(255, 255, 255, 0.7);
