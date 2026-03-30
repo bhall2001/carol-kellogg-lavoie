@@ -48,13 +48,11 @@ const PHOTOS = [
   "https://lh3.googleusercontent.com/d/1m1DeX0b6BR6z5SvHZI7uxQRoFxuzCfDg",  // 8525625913186514935.jpeg
   "https://lh3.googleusercontent.com/d/1D5uVNrwR6peG_uUhmyEgZh_UdqKwf59b",  // 8753633343373534260.jpeg
   "https://lh3.googleusercontent.com/d/1Ukd-DL8hbXeu_ZSvbLvsy-svNEWogXc4",  // 8899934765424260514.jpeg
-  "https://lh3.googleusercontent.com/d/1ZFayzR2Zr5UlLf-nQ8LWh8HapVjvi3QH",  // 8987486371409984762.jpeg
   "https://lh3.googleusercontent.com/d/1rzUJsEnC28-gnbAxkJrnrcUwgLoQ7Twl",  // 9105045673878011077.jpeg
   "https://lh3.googleusercontent.com/d/1AUqv6c_M28OxendHwWujoHQhzJ6Pbbo8",  // 91342094105660035.jpeg
   "https://lh3.googleusercontent.com/d/1yPt1H4kqyATHGRhe-DJPckFdWZUwZ6Vz",  // 96193825850929584.jpeg
   "https://lh3.googleusercontent.com/d/1Top1Ku8YO8-vG3PnaI6X-zzn4x90t6Ov",  // BB0BA06F-17A1-4BE7-B4A1-2AA739857BD3.jpeg
   "https://lh3.googleusercontent.com/d/1BJTFSpf_m9TUESvl9FWJ4xl2O5i9_Q6s",  // D68B877A-88C8-4DC0-B942-F128089D7E27.jpeg
-  "https://lh3.googleusercontent.com/d/12aBWcfE1oITRvd9oRq4_PhmP16czT50l",  // E2C9907F-36F6-4D23-9C87-4C76D1271983.jpeg
   "https://lh3.googleusercontent.com/d/1-adQbgJULRhu7ahuqsR_xjQhdTu1-0uC",  // F3B13F36-FC6C-4BAE-9A16-C91EC67C2607.jpeg
   "https://lh3.googleusercontent.com/d/1Hr4h0zmlJqpk_MRDGzXUoJ4i9RkqCm3b",  // FullSizeRender (1).jpeg
   "https://lh3.googleusercontent.com/d/1wUES5exzt_LDb4Ug87zOEJbcJjfnlTWo",  // FullSizeRender (10).jpeg
